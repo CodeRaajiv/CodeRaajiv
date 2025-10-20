@@ -5,10 +5,14 @@
 I'm a passionate Full Stack Developer specializing in building modern web applications with the MERN stack. I love creating responsive, user-friendly interfaces and robust backend systems.
 
 ### 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-raajivraaijv4179%40gmail.com-red?style=flat-square&logo=gmail)](mailto:raajivraaijv4179@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Grkak)
+
+<p align="left">
+<a href="mailto:raajivraaijv4179@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://protfolio-woad-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/raajivg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/CodeRaajiv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/8eYef0mdr4"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 ### 💻 Tech Stack
 
