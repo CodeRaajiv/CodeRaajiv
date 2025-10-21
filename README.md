@@ -81,19 +81,65 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 ### 🎯 Featured Projects
 
-#### 🛍️ E-Commerce Platform - Live Encore
+<table>
+<tr>
+<td width="50%">
+
+#### 🛍️ [E-Commerce Platform - Live Encore](https://e-commerce-ecru-one-22.vercel.app/)
+
+[![E-Commerce](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/ecommerce.png)](https://e-commerce-ecru-one-22.vercel.app/)
+
 Full-featured e-commerce platform with PayPal integration and cloudinary image management. Built with MERN stack, Redux for state management.
 
-#### 🏨 Hotel Booking System
+**Tech Stack:** MongoDB | Express | React | Node.js | Redux | PayPal | Cloudinary
+
+🔗 [Live Demo](https://e-commerce-ecru-one-22.vercel.app/)
+
+</td>
+<td width="50%">
+
+#### 🏨 [Hotel Booking System - QuickStay](https://hotel-booking-react-liard.vercel.app/)
+
+[![Hotel Booking](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/hotel-booking.png)](https://hotel-booking-react-liard.vercel.app/)
+
 Modern hotel booking platform with room listings, location system, Google login, and Tailwind CSS for stunning visuals. Deployed on Vercel for optimal performance.
 
-#### 🎬 Movie App
+**Tech Stack:** React | Tailwind CSS | Firebase | Google Auth
+
+🔗 [Live Demo](https://hotel-booking-react-liard.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎬 [Movie App](https://movie-web-react-drab.vercel.app/)
+
+[![Movie App](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/movie-app.png)](https://movie-web-react-drab.vercel.app/)
+
 Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a sleek, mobile-friendly UI for an engaging movie browsing experience.
 
-### 🏆 Achievements
-- ✅ Completed 30 Days of JavaScript Challenge
-- ✅ Built & Deployed Multiple Live Web Projects on Vercel
-- ✅ Built 10+ Frontend and Full-Stack Projects
+**Tech Stack:** React | Tailwind CSS | OMDB API
+
+🔗 [Live Demo](https://movie-web-react-drab.vercel.app/)
+
+</td>
+<td width="50%">
+
+#### 🌿 [Greenden - Plant Shop](https://coderaajiv.github.io/Greenden-project/)
+
+[![Greenden](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/greenden.png)](https://coderaajiv.github.io/Greenden-project/)
+
+Beautiful plant e-commerce website offering artificial and natural flowers. Clean design with 160+ plant species catalog for interior decoration enthusiasts.
+
+**Tech Stack:** HTML | CSS | JavaScript | Responsive Design
+
+🔗 [Live Demo](https://coderaajiv.github.io/Greenden-project/)
+
+</td>
+</tr>
+</table>
 
 ### 📚 Certifications
 - MERN Essentials Training by Error Makes Clever
@@ -102,11 +148,7 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 
 ### 📊 LeetCode Stats
 
-<div align="Left">
-  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/8eYef0mdr4?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/8eYef0mdr4/)
-
-</div>
 
 ### 🌱 Currently Learning
 - Advanced backend architecture
