@@ -87,7 +87,7 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 #### 🛍️ [E-Commerce Platform - Live Encore](https://e-commerce-ecru-one-22.vercel.app/)
 
-[![E-Commerce](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/ecommerce.png)](https://e-commerce-ecru-one-22.vercel.app/)
+[![E-Commerce]
 
 Full-featured e-commerce platform with PayPal integration and cloudinary image management. Built with MERN stack, Redux for state management.
 
@@ -100,11 +100,10 @@ Full-featured e-commerce platform with PayPal integration and cloudinary image m
 
 #### 🏨 [Hotel Booking System - QuickStay](https://hotel-booking-react-liard.vercel.app/)
 
-[![Hotel Booking](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/hotel-booking.png)](https://hotel-booking-react-liard.vercel.app/)
-
+[![Hotel Booking]
 Modern hotel booking platform with room listings, location system, Google login, and Tailwind CSS for stunning visuals. Deployed on Vercel for optimal performance.
 
-**Tech Stack:** React | Tailwind CSS | Firebase | Google Auth
+**Tech Stack:** Tailwindcss | React | Google Login Authenticaion
 
 🔗 [Live Demo](https://hotel-booking-react-liard.vercel.app/)
 
@@ -116,7 +115,7 @@ Modern hotel booking platform with room listings, location system, Google login,
 
 #### 🎬 [Movie App](https://movie-web-react-drab.vercel.app/)
 
-[![Movie App](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/movie-app.png)](https://movie-web-react-drab.vercel.app/)
+[![Movie App]
 
 Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a sleek, mobile-friendly UI for an engaging movie browsing experience.
 
@@ -129,7 +128,7 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 
 #### 🌿 [Greenden - Plant Shop](https://coderaajiv.github.io/Greenden-project/)
 
-[![Greenden](https://raw.githubusercontent.com/CodeRaajiv/project-images/main/greenden.png)](https://coderaajiv.github.io/Greenden-project/)
+[![Greenden]
 
 Beautiful plant e-commerce website offering artificial and natural flowers. Clean design with 160+ plant species catalog for interior decoration enthusiasts.
 
@@ -150,10 +149,6 @@ Beautiful plant e-commerce website offering artificial and natural flowers. Clea
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/8eYef0mdr4?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/8eYef0mdr4/)
 
-### 🌱 Currently Learning
-- Advanced backend architecture
-- RESTful API authentication patterns
-- Database optimization techniques
 
 ### 💡 Fun Fact
 I'm a B.Com -CA Bacholer of Commerce and Computer Application graduate from CPA College of Arts and Science (2022-2025) with a passion for turning ideas into reality through code!
