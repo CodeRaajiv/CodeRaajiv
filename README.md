@@ -100,11 +100,18 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 - Prompt Engineering course by Error Makes Clever
 - Copilot Artificial Intelligence course (Certified by LinkedIn)
 
-### 📊 GitHub Stats
+### 📊 LeetCode Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grkak&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/8eYef0mdr4?theme=dark&font=Karma&ext=heatmap)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grkak&layout=compact&theme=radical)
+**Current Progress:**
+- 🎯 **Rank:** 3,476,596
+- ✅ **Problems Solved:** 30/3721
+  - Easy: 20/908
+  - Medium: 10/1936
+  - Hard: 0/877
+- 🔥 **Max Streak:** 6 days
+- 📈 **Total Active Days:** 14 days
 
 ### 🌱 Currently Learning
 - Advanced backend architecture
@@ -112,8 +119,8 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 - Database optimization techniques
 
 ### 💡 Fun Fact
-I'm a BCA graduate from CPA College of Arts and Science (2022-2025) with a passion for turning ideas into reality through code!
+I'm a B.Com -CA Bacholer of Commerce and Computer Application graduate from CPA College of Arts and Science (2022-2025) with a passion for turning ideas into reality through code!
 
 ---
 
-⭐️ From [Grkak](https://github.com/Grkak)
+Thanks for Visiting my Profile
