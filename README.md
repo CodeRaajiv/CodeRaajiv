@@ -87,7 +87,7 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 #### 🛍️ [E-Commerce Platform - Live Encore](https://e-commerce-ecru-one-22.vercel.app/)
 
-[![E-Commerce]
+
 
 Full-featured e-commerce platform with PayPal integration and cloudinary image management. Built with MERN stack, Redux for state management.
 
@@ -100,7 +100,7 @@ Full-featured e-commerce platform with PayPal integration and cloudinary image m
 
 #### 🏨 [Hotel Booking System - QuickStay](https://hotel-booking-react-liard.vercel.app/)
 
-[![Hotel Booking]
+
 Modern hotel booking platform with room listings, location system, Google login, and Tailwind CSS for stunning visuals. Deployed on Vercel for optimal performance.
 
 **Tech Stack:** Tailwindcss | React | Google Login Authenticaion
@@ -115,7 +115,7 @@ Modern hotel booking platform with room listings, location system, Google login,
 
 #### 🎬 [Movie App](https://movie-web-react-drab.vercel.app/)
 
-[![Movie App]
+
 
 Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a sleek, mobile-friendly UI for an engaging movie browsing experience.
 
@@ -128,7 +128,7 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 
 #### 🌿 [Greenden - Plant Shop](https://coderaajiv.github.io/Greenden-project/)
 
-[![Greenden]
+
 
 Beautiful plant e-commerce website offering artificial and natural flowers. Clean design with 160+ plant species catalog for interior decoration enthusiasts.
 
