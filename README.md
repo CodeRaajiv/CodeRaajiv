@@ -150,7 +150,7 @@ Beautiful plant e-commerce website offering artificial and natural flowers. Clea
 [![LeetCode Stats](https://leetcard.jacoblin.cool/8eYef0mdr4?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/8eYef0mdr4/)
 
 
-### 💡 Fun Fact
+### 💡 Education
 I'm a B.Com -CA Bacholer of Commerce and Computer Application graduate from CPA College of Arts and Science (2022-2025) with a passion for turning ideas into reality through code!
 
 ---
