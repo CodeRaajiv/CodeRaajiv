@@ -102,21 +102,11 @@ Hollywood-focused Movie App using React, Tailwind CSS, and OMDB API. Features a 
 
 ### 📊 LeetCode Stats
 
-<div align="center">
+<div align="Left">
   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/8eYef0mdr4?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/8eYef0mdr4/)
 
 </div>
-
-**Current Progress:**
-- 🎯 **Rank:** 3,476,596
-- ✅ **Problems Solved:** 30/3721
-  - Easy: 20/908
-  - Medium: 10/1936
-  - Hard: 0/877
-- 🔥 **Max Streak:** 6 days
-- 📈 **Total Active Days:** 14 days
-- 📅 **46 submissions** in the past year
 
 ### 🌱 Currently Learning
 - Advanced backend architecture
